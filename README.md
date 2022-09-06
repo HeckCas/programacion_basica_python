@@ -25,3 +25,7 @@ git fetch origin
 git remote -v 
 
 git remote add <nombre_del_repositorio_remoto> <url_repo_remoto>
+
+
+
+Modificacion del readme
