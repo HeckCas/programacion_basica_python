@@ -17,3 +17,9 @@ else:
 # Ciclos
 for i in range(10):
   print (i)
+
+
+# bibliotecas
+
+import pandas as pd
+import numpy as np
