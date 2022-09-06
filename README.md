@@ -18,7 +18,9 @@ git branch
 
 git push -u origin rama
 
-git pull origin rama
+git pull origin 
+
+git fetch origin
 
 git remote -v 
 
