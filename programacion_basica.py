@@ -13,3 +13,7 @@ if (1000 > enteros):
   print('Si es mayor')
 else:
   print('No es mayor')
+
+# Ciclos
+for i in range(10):
+  print (i)
